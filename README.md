@@ -1,13 +1,13 @@
 # LGMVIP-DataScience  
 Iris Flower Classification is the "Hello World" of Machine Learning.
 
-This project requires Python 2.7 and the following Python libraries installed:
+This project requires Python 3 and the following Python libraries installed:
 
 NumPy
 
 Pandas
 
-matplotlib
+
 
 scikit-learn
 
